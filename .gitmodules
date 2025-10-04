@@ -1,0 +1,6 @@
+[submodule "YTChat_Frontend"]
+	path = YTChat_Frontend
+	url = https://github.com/ShivamK2002/YTChat_Frontend
+[submodule "YTChat_Backend"]
+	path = YTChat_Backend
+	url = https://github.com/ShivamK2002/YTChat_Backend
